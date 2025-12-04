@@ -111,50 +111,52 @@ LookupForensics/
 └── README.md
 ```
 
-
 ## 🚀 Baselines (to be released)
 
 The official code release will include:
 
-### **Forgery Identification
-	•	CNN-based classifiers
-	•	Transformer models
-	•	Augmentation-aware variants
+### Forgery Identification
+- CNN-based classifiers  
+- Transformer models  
+- Augmentation-aware variants  
 
-### **Forgery Localization
-	•	Segmentation networks
-	•	Copy-move and splicing detectors
+### Forgery Localization
+- Segmentation networks  
+- Copy-move and splicing detectors  
 
-### **Fact Retrieval
-	•	Global retrieval (CLIP-based)
-	•	Local segment retrieval
-	•	Evaluation for distractor-heavy environments
+### Fact Retrieval
+- Global retrieval (CLIP-based)  
+- Local segment retrieval  
+- Evaluation for distractor-heavy environments  
 
-### **Two-Phase Fact Verification
-	•	End-to-end decision pipeline
-	•	Metrics for retrieval + manipulation detection consistency
+### Two-Phase Fact Verification
+- End-to-end decision pipeline  
+- Metrics for retrieval + manipulation detection consistency  
 
-⸻
+---
 
 ## 📥 Download
 
-Dataset release is currently in preparation.
+Dataset release is currently in preparation.  
 Links will be provided here once available.
 
-⸻
+---
 
 ## 📚 Citation
 
 If you use LookupForensics in your research, please cite:
 
-@article{cui2025lookupforensics,
-  title   = {LookupForensics: A Large-Scale Multi-Task Dataset for Multi-Phase Image-Based Fact Verification},
-  author  = {Cui, Shuhan and Nguyen, Huy H. and Le, Trung-Nghia and Lu, Chun-Shien and Echizen, Isao},
-  journal = {IEEE Access},
-  year    = {2025},
-  volume  = {XX},
-  pages   = {XX--XX},
-  doi     = {10.1109/ACCESS.2023.0322000}
+```bibtex
+@ARTICLE{11059876,
+  author={Cui, Shuhan and Nguyen, Huy H. and Le, Trung-Nghia and Lu, Chun-Shien and Echizen, Isao},
+  journal={IEEE Access}, 
+  title={LookupForensics: A Large-Scale Multi-Task Dataset for Multi-Phase Image-Based Fact Verification}, 
+  year={2025},
+  volume={13},
+  number={},
+  pages={136505-136523},
+  keywords={Forgery;Artificial intelligence;Splicing;Feature extraction;Multitasking;Accuracy;Visualization;Transformers;Reliability;Digital images;Datasets;neural networks;forgery detection;image copy detection;fact verification},
+  doi={10.1109/ACCESS.2025.3584395}
 }
 
 ## 📩 Contact

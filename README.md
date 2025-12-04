@@ -165,5 +165,7 @@ If you use LookupForensics in your research, please cite:
 For questions, early access, or collaboration:
 
 Shuhan Cui
+
 The University of Tokyo / National Institute of Informatics
+
 📧 syokan [at] g.ecc.u-tokyo.ac.jp

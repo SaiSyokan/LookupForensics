@@ -109,40 +109,41 @@ LookupForensics/
 ├── LICENSE
 ├── CITATION.cff
 └── README.md
+```
 
 
-🚀 Baselines (to be released)
+## 🚀 Baselines (to be released)
 
 The official code release will include:
 
-Forgery Identification
+### **Forgery Identification
 	•	CNN-based classifiers
 	•	Transformer models
 	•	Augmentation-aware variants
 
-Forgery Localization
+### **Forgery Localization
 	•	Segmentation networks
 	•	Copy-move and splicing detectors
 
-Fact Retrieval
+### **Fact Retrieval
 	•	Global retrieval (CLIP-based)
 	•	Local segment retrieval
 	•	Evaluation for distractor-heavy environments
 
-Two-Phase Fact Verification
+### **Two-Phase Fact Verification
 	•	End-to-end decision pipeline
 	•	Metrics for retrieval + manipulation detection consistency
 
 ⸻
 
-📥 Download
+## 📥 Download
 
 Dataset release is currently in preparation.
 Links will be provided here once available.
 
 ⸻
 
-📚 Citation
+## 📚 Citation
 
 If you use LookupForensics in your research, please cite:
 
@@ -156,7 +157,7 @@ If you use LookupForensics in your research, please cite:
   doi     = {10.1109/ACCESS.2023.0322000}
 }
 
-📩 Contact
+## 📩 Contact
 
 For questions, early access, or collaboration:
 

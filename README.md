@@ -158,6 +158,7 @@ If you use LookupForensics in your research, please cite:
   keywords={Forgery;Artificial intelligence;Splicing;Feature extraction;Multitasking;Accuracy;Visualization;Transformers;Reliability;Digital images;Datasets;neural networks;forgery detection;image copy detection;fact verification},
   doi={10.1109/ACCESS.2025.3584395}
 }
+```
 
 ## 📩 Contact
 

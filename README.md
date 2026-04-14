@@ -3,7 +3,7 @@
 **LookupForensics** is a large-scale, multi-task dataset designed for **multi-phase image-based fact verification**.  
 It supports four tightly connected tasks — **forgery identification**, **forgery localization**, **fact retrieval**, and **end-to-end fact verification** — enabling systematic evaluation of modern multimodal reasoning systems.
 
-This dataset was introduced in:
+This dataset was introduced in [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11059876):
 
 > **Shuhan Cui**, Huy H. Nguyen, Trung-Nghia Le, Chun-Shien Lu, Isao Echizen  
 > *LookupForensics: A Large-Scale Multi-Task Dataset for Multi-Phase Image-Based Fact Verification*  

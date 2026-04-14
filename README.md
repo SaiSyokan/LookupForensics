@@ -1,4 +1,4 @@
-# LookupForensics
+# [IEEE ACCESS 2025] LookupForensics: A Large-Scale Multi-Task Dataset for Multi-Phase Image-Based Fact Verification
 
 **LookupForensics** is a large-scale, multi-task dataset designed for **multi-phase image-based fact verification**.  
 It supports four tightly connected tasks — **forgery identification**, **forgery localization**, **fact retrieval**, and **end-to-end fact verification** — enabling systematic evaluation of modern multimodal reasoning systems.

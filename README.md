@@ -87,7 +87,7 @@ LookupForensics enables benchmarking of the **two-phase verification pipeline**:
 
 ---
 
-## 🧩 Dataset Structure (Planned)
+## 🧩 Dataset Structure
 
 ```text
 LookupForensics/
@@ -110,28 +110,6 @@ LookupForensics/
 ├── CITATION.cff
 └── README.md
 ```
-
-## 🚀 Baselines (to be released)
-
-The official code release will include:
-
-### Forgery Identification
-- CNN-based classifiers  
-- Transformer models  
-- Augmentation-aware variants  
-
-### Forgery Localization
-- Segmentation networks  
-- Copy-move and splicing detectors  
-
-### Fact Retrieval
-- Global retrieval (CLIP-based)  
-- Local segment retrieval  
-- Evaluation for distractor-heavy environments  
-
-### Two-Phase Fact Verification
-- End-to-end decision pipeline  
-- Metrics for retrieval + manipulation detection consistency  
 
 ---
 
